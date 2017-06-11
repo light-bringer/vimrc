@@ -49,6 +49,8 @@ try
 catch
 endtry
 
+" Set line numbers "
+set number
 
 """""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""
 " => Command mode related
